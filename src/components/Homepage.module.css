@@ -1,0 +1,79 @@
+.main{
+   
+    /* position: relative;
+    animation: mymove 2s infinite; */
+}
+
+.background1 {
+   
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+     
+}
+.background2 {
+   
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+     
+}
+
+.background3 {
+   
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+     
+}
+.text1{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    
+}
+.text2{
+    position: absolute;
+    top: 300%;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.text3{
+    position: absolute;
+    top: 500%;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.txt1{
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+};
+
+.section1{
+    background-color: #f4f4f4;
+    color: #666;
+    text-align: center;
+}
